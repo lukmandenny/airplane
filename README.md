@@ -1,16 +1,15 @@
 # airplane
 
-A new Flutter project.
+A Flutter excercise project from BWA Course. 
+Thanks to Rifki Eka from BWA, you have a good work bro! your course help me a lot. 
+Thanks to Code With Andrea, your email course also help me a lot and give me different perspective for coding with flutter framework.
 
-## Getting Started
+26 October 2023 -- first commit | Getting done with UI slicing 
 
-This project is a starting point for a Flutter application.
+Now this project on-going for add state management and consume API. 
 
-A few resources to get you started if this is your first Flutter project:
+Can't wait to see this project done! 🤘🏻
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**FIGMA RESOURCES** : https://www.figma.com/file/VCQsHf7ShwMNdziJBaJRRM/Airplane?type=design&node-id=0%3A1&mode=design&t=80X6ppmasF385xGV-1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
