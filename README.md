@@ -10,4 +10,9 @@ Now this project on-going for add state management and consume API.
 
 Can't wait to see this project done! 🤘🏻
 
+======================================
+RESOURCES
+======================================
+FIGMA : https://www.figma.com/file/VCQsHf7ShwMNdziJBaJRRM/Airplane?type=design&node-id=0%3A1&mode=design&t=80X6ppmasF385xGV-1
+
 
